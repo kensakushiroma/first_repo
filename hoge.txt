@@ -2,4 +2,5 @@ File is changed.
 <<<<<<< HEAD
 File is changed by try-conflict
 File is changed by try-conflict
+File is changed by Collaborator
 >>>>>>> try-conflict
